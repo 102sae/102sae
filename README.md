@@ -1,5 +1,6 @@
 <div align="center">
-  
+ <img src="https://capsule-render.vercel.app/api?type=wave&color=E0EEC6&height=300&section=header&text=102sae&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+ 
 # :cat: Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=102sae)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,3 +17,4 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
+
